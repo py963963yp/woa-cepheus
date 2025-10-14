@@ -146,6 +146,9 @@ adb shell fixgpt
 <details>
   <summary><strong>Click here for method 2</strong></summary> 
 
+> [!Important]
+> If your device is using dynamic partitions for newer roms, DO NOT USE THE PARTITION SCRIPT and instead use **Method 1: Manual partitioning**.
+
 ### Run the partitioning script
 > After running the script, enter the size (in GB) that you want Windows to be
 >
