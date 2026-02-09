@@ -5,7 +5,7 @@
 ## Installing Windows
 
 ### Prerequisites
-- [tools（include BCD，bcdboot，ntfs-3g and so on）](https://www.123912.com/s/P6j5Vv-encKv) (should already be installed)
+- [tools（include BCD，bcdboot，ntfs-3g and so on）](https://www.123912.com/s/P6j5Vv-tncKv) (should already be installed)
 
 - [Windows on ARM image（have drivers）](https://www.123912.com/s/lGrLjv-hgFk)
 
